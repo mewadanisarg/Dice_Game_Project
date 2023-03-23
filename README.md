@@ -14,5 +14,6 @@ Dice game built to test the knowledge of the tech stack learned
 - On each refresh random number will be Drawn
 - Based on numbers on Dice Players (1 or 2) wins, or draws
 
+<a href="https://dice-game-project-gamma.vercel.app/">Demo</a>
 
 <img src="https://user-images.githubusercontent.com/73109141/224313952-e143ce31-4213-484f-a953-8a03736b0d8b.png" alt="image" width="500">
